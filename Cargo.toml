@@ -1,0 +1,10 @@
+[package]
+name = "sr_fontstash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+cc = "*"
+bindgen = "*"
